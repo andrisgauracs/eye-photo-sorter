@@ -8,6 +8,8 @@ const isolation = {
 };
 
 export default defineConfig({
+  // GitHub Pages serves the app from /eye-photo-sorter/ (set by the Pages workflow); local dev stays at /.
+  base: process.env.GITHUB_PAGES ? "/eye-photo-sorter/" : "/",
   // The Eye SDK top-level awaits its Wasm core and loads EyeWeb.wasm via import.meta.url,
   // so it must not be pre-bundled.
   optimizeDeps: {

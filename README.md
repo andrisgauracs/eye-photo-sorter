@@ -2,6 +2,10 @@
 
 A web app that sorts a folder of photos into receipts, screenshots, documents, people, pets, blurry shots, closed eyes, duplicates and best shots, entirely in your browser. Drop a folder on the page and watch it work, with live speed numbers. No photo is uploaded.
 
+**[Try it live → andrisgauracs.github.io/eye-photo-sorter](https://andrisgauracs.github.io/eye-photo-sorter/)** (Chrome or Edge with WebGPU recommended)
+
+![Eye Photo Sorter: drop a folder, watch Eye sort 105 photos live, browse the categories](docs/demo.gif)
+
 It's built on [**Eye**](https://desertant.com/models/eye/), the on-device image classification model from [Desert Ant Labs](https://desertant.com/), running on Google's [LiteRT.js](https://ai.google.dev/edge/litert/web).
 
 ## What it does
@@ -41,7 +45,11 @@ Use a recent Chrome or Edge for WebGPU. URL options:
 - `?lanes=N` — how many photos are analysed at once (default 6; `?lanes=1` for one at a time)
 - `?backend=wasm` or `?backend=webgpu` — force a backend
 
-To try it, drop the included `sample-photos/` folder on the page.
+To try it, drop the included `sample-photos/` folder on the page (download the repo, or use any folder of your own photos).
+
+### GitHub Pages
+
+The live demo is built and deployed by `.github/workflows/pages.yml` on every push to `main` (`GITHUB_PAGES=1` sets Vite's base path to `/eye-photo-sorter/`). GitHub Pages can't send the cross-origin isolation headers, so on browsers without WebGPU the CPU fallback runs single-threaded and is slower than `npm run dev` locally.
 
 ## Performance
 
@@ -69,7 +77,9 @@ Desert Ant Labs quotes 41 ms per photo with WebGPU in Chrome on an M6 Mac for a 
 | `index.html` | Page layout: drop zone, counters, charts, fact strip, category buttons, detail panel |
 | `src/main.js` | Model loading, file intake, parallel pipeline, categories, charts, summary |
 | `src/style.css` | Dark theme |
-| `vite.config.js` | Keeps the Eye SDK out of Vite's pre-bundling and adds the COOP/COEP headers |
+| `vite.config.js` | Keeps the Eye SDK out of Vite's pre-bundling, adds the COOP/COEP headers, sets the Pages base path |
+| `.github/workflows/pages.yml` | Builds and deploys the app to GitHub Pages |
+| `docs/demo.gif` | The overview animation in this README |
 | `scripts/copy-litert.js` | Copies LiteRT.js's WebAssembly runtime into `public/litert/` on dev and build |
 | `sample-photos/` | 105 freely licensed demo photos, including deliberate blurry shots and burst sequences |
 | `sample-photos-CREDITS.md` | Source, author and license for every sample photo |
