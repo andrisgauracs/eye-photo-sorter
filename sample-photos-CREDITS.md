@@ -1,0 +1,112 @@
+# Sample photo credits
+
+Files are in `sample-photos/`. Format: filename | source URL | author | license.
+Files marked "variant of" are derived burst copies (slight crop/rotation/brightness) of the named file. Blurred shots (bicycle-park, market-produce, breakfast-in-bed, street-lights-evening, puppy-bulldog, concert-stage) were blurred locally with ImageMagick from the listed originals.
+
+CC BY items require visible credit (e.g., in the video description or end card): coffee-kitchen.jpg, doc-field-notebook.jpg, doc-telegram-form.jpg, receipt-pay-the-bill.jpg, receipt-restaurant-02.jpg, screenshot-gnome-desktop.png.
+
+- beach-dusk.jpg | https://commons.wikimedia.org/wiki/File:Dusk_on_beach_shore_(Unsplash).jpg | Dustin Scarpitti dusty_blanco | CC0
+- beach-rocky.jpg | https://commons.wikimedia.org/wiki/File:Beach_with_rocky_shore_(Unsplash).jpg | Timothy Kolczak tkolczak33 | CC0
+- bicycle-park.jpg | https://commons.wikimedia.org/wiki/File:Bicycle_(Unsplash).jpg | Adrian Flores princecycling | CC0
+- bike-brick-wall.jpg | https://commons.wikimedia.org/wiki/File:Bike_against_brick_wall_(Unsplash).jpg | Darius Soodmand dsoodmand | CC0
+- breakfast-in-bed.jpg | https://commons.wikimedia.org/wiki/File:Breakfast_in_bed_(Unsplash).jpg | Toa Heftiba heftiba | CC0
+- burst-beach-1.jpg | https://commons.wikimedia.org/wiki/File:Kite_and_exciting_beach_(Unsplash).jpg | Denin Williams deninwilliams | CC0
+- burst-beach-2.jpg | https://commons.wikimedia.org/wiki/File:Kite_and_exciting_beach_(Unsplash).jpg | Denin Williams deninwilliams | CC0 (variant of burst-beach-1.jpg)
+- burst-beach-3.jpg | https://commons.wikimedia.org/wiki/File:Kite_and_exciting_beach_(Unsplash).jpg | Denin Williams deninwilliams | CC0 (variant of burst-beach-1.jpg)
+- burst-beach-4.jpg | https://commons.wikimedia.org/wiki/File:Kite_and_exciting_beach_(Unsplash).jpg | Denin Williams deninwilliams | CC0 (variant of burst-beach-1.jpg)
+- burst-dog-1.jpg | https://commons.wikimedia.org/wiki/File:Earnest_dog_in_the_grass_(Unsplash).jpg | Rodion Kutsaev frostroomhead | CC0
+- burst-dog-2.jpg | https://commons.wikimedia.org/wiki/File:Earnest_dog_in_the_grass_(Unsplash).jpg | Rodion Kutsaev frostroomhead | CC0 (variant of burst-dog-1.jpg)
+- burst-dog-3.jpg | https://commons.wikimedia.org/wiki/File:Earnest_dog_in_the_grass_(Unsplash).jpg | Rodion Kutsaev frostroomhead | CC0 (variant of burst-dog-1.jpg)
+- burst-friends-1.jpg | https://stocksnap.io/photo/group-friends-YBGQFVYDDC | Helena Lopes | CC0
+- burst-friends-2.jpg | https://stocksnap.io/photo/group-friends-YBGQFVYDDC | Helena Lopes | CC0 (variant of burst-friends-1.jpg)
+- burst-friends-3.jpg | https://stocksnap.io/photo/group-friends-YBGQFVYDDC | Helena Lopes | CC0 (variant of burst-friends-1.jpg)
+- burst-pizza-1.jpg | https://commons.wikimedia.org/wiki/File:A_well_garnished_pizza_(Unsplash).jpg | David Nuescheler uncled | CC0
+- burst-pizza-2.jpg | https://commons.wikimedia.org/wiki/File:A_well_garnished_pizza_(Unsplash).jpg | David Nuescheler uncled | CC0 (variant of burst-pizza-1.jpg)
+- burst-pizza-3.jpg | https://commons.wikimedia.org/wiki/File:A_well_garnished_pizza_(Unsplash).jpg | David Nuescheler uncled | CC0 (variant of burst-pizza-1.jpg)
+- cat-brown-eyes.jpg | https://commons.wikimedia.org/wiki/File:Brown-eyed_cat_(Unsplash).jpg | Chinda Sam afortunatefate | CC0
+- cat-ginger.jpg | https://commons.wikimedia.org/wiki/File:Ginger_long-haired_cat_(Unsplash).jpg | dorota dylka dylka | CC0
+- cat-window.jpg | https://commons.wikimedia.org/wiki/File:Cat_napping_by_the_window_(Unsplash).jpg | Yanko Peyankov peyankov | CC0
+- city-london.jpg | https://commons.wikimedia.org/wiki/File:Cloudy_London_skyline_(Unsplash).jpg | Rob Bye robertbye | CC0
+- city-night.jpg | https://commons.wikimedia.org/wiki/File:City_at_Night_(Unsplash).jpg | Kyle Sudu ksudu94 | CC0
+- city-skyline-nyc.jpg | https://commons.wikimedia.org/wiki/File:Beautiful_NYC_skyline_(Unsplash).jpg | Anthony DELANOIX anthonydelanoix | CC0
+- coffee-flatlay.jpg | https://commons.wikimedia.org/wiki/File:Camera,_coaster_and_coffee_in_flatlay_(Unsplash).jpg | Melinda Pack melindapack | CC0
+- coffee-kitchen.jpg | https://commons.wikimedia.org/wiki/File:Woman_enjoys_coffee_in_modern_kitchen_while_smiling_with_eyes_closed.jpg | Shixart1985 | CC BY 2.0
+- concert-crowd.jpg | https://commons.wikimedia.org/wiki/File:Concert_crowd_(Unsplash).jpg | Hannah Rodrigo hannahrodrigo | CC0
+- concert-stage.jpg | https://commons.wikimedia.org/wiki/File:Concert_photos_(Unsplash).jpg | Jesse Darland jessdarland | CC0
+- conference-room.jpg | https://commons.wikimedia.org/wiki/File:Bright_conference_room_(Unsplash).jpg | Breather breather | CC0
+- desert-road.jpg | https://commons.wikimedia.org/wiki/File:Desert_Journey_(Unsplash).jpg | Jesse Collins jtc | CC0
+- dinner-friends-wine.jpg | https://stocksnap.io/photo/friends-family-EI9BBWFMXB | Helena Lopes | CC0
+- doc-application-form.jpg | https://commons.wikimedia.org/wiki/File:Blank_Application_Form,_Department_of_Commerce_-_DPLA_-_9fe5d88e3a2aac5e868d34068ec2ab0c_(page_1).jpg | Truman, Harry S., 1884-1972 | Public domain
+- doc-field-notebook.jpg | https://commons.wikimedia.org/wiki/File:(Sherwin_Carlquist_field_notebook_from_1966_expedition_to_Hawaii)_-_DPLA_-_6cf6ec33d755d47e91a91bc1a00b7da2_(page_24).jpg | Carlquist, Sherwin John, 1930-2021 | CC BY 4.0
+- doc-letter-handwritten.jpg | https://commons.wikimedia.org/wiki/File:Handwritten_letter_by_Wilbur_Underhill_Jr._-_Side_A.jpg | Wilbur Underhill Jr. | Public domain
+- doc-open-book.jpg | https://commons.wikimedia.org/wiki/File:1841_Book_of_Mormon_open_to_title_page.jpg | Prosfilaes | CC0
+- doc-passport-form.jpg | https://commons.wikimedia.org/wiki/File:Passport_application_form_blank_Russia.jpg | Rakoon | CC0
+- doc-telegram-1944.jpg | https://commons.wikimedia.org/wiki/File:1944_Telegram_Torpedoed_Ship.jpg | Societe Anonyme Internationale De Telegraphie Sans Fil | Public domain
+- doc-telegram-form.jpg | https://commons.wikimedia.org/wiki/File:Telegram_Form_Northern_England.jpg | EnglishEnigma1 | CC BY 4.0
+- doctor-tablet.jpg | https://stocksnap.io/photo/male-doctor-KN1OCKC4Y2 | Direct Media | CC0
+- dog-beach.jpg | https://commons.wikimedia.org/wiki/File:Dog_on_a_beach_(Unsplash).jpg | Meg Sanchez megsanchez | CC0
+- dog-lake.jpg | https://commons.wikimedia.org/wiki/File:Dog_on_a_lake_(Unsplash).jpg | Atanas Teodosiev teodosiev | CC0
+- dog-snow.jpg | https://commons.wikimedia.org/wiki/File:Dog_on_a_snowy_plain_(Unsplash).jpg | Patrick Tomasso impatrickt | CC0
+- family-beach-walk.jpg | https://stocksnap.io/photo/people-family-Z59RZ5SREK | Natalya Zaritskaya | CC0
+- family-picnic-dog.jpg | https://stocksnap.io/photo/family-portrait-OIUD9DEKPG | Family Moments | CC0
+- food-breakfast-diner.jpg | https://commons.wikimedia.org/wiki/File:Breakfast_at_a_Diner_(Unsplash).jpg | Zhifei Zhou phoebezzf | CC0
+- food-brunch.jpg | https://commons.wikimedia.org/wiki/File:Brunch_(Unsplash).jpg | Christine Siracusa christine_siracusa | CC0
+- food-cereal.jpg | https://commons.wikimedia.org/wiki/File:Bowl_of_Cereal_(Unsplash).jpg | Yvens Banatte yvensb | CC0
+- food-cheeseburger.jpg | https://commons.wikimedia.org/wiki/File:Best_Cheeseburger_ever_(Unsplash).jpg | Thomas Habr thomashabr | CC0
+- forest-fog.jpg | https://commons.wikimedia.org/wiki/File:Fog_descending_on_a_pine_forest_(Unsplash).jpg | Pacific Austin _pacifist | CC0
+- friends-hilltop-laughing.jpg | https://stocksnap.io/photo/group-friends-M16QHPDGYJ | Helena Lopes | CC0
+- friends-sunset-rocks.jpg | https://stocksnap.io/photo/group-friends-B740UADQ1E | Aidan Meyer | CC0
+- kitten-slipper.jpg | https://commons.wikimedia.org/wiki/File:Kitten_inside_slipper_(Unsplash).jpg | Lara Crespo laracrdphoto | CC0
+- kitten-yawn.jpg | https://commons.wikimedia.org/wiki/File:Kitten_yawn_(Unsplash).jpg | Erik-Jan Leusink ejleusink | CC0
+- lake-kayaks.jpg | https://commons.wikimedia.org/wiki/File:Kayaks_on_a_mountain_lake_(Unsplash).jpg | Matheus Bandoch mbandoch | CC0
+- lake-mountains.jpg | https://commons.wikimedia.org/wiki/File:Clouds_mirrored_in_a_mountain_lake_(Unsplash).jpg | Ales Krivec aleskrivec | CC0
+- market-flowers.jpg | https://commons.wikimedia.org/wiki/File:Flower_market_buckets_(Unsplash).jpg | Alisa Anton alisaanton | CC0
+- market-produce.jpg | https://commons.wikimedia.org/wiki/File:Farmer%27s_Market_Produce_(Unsplash).jpg | Julian Hanslmaier j_h | CC0
+- market-street.jpg | https://commons.wikimedia.org/wiki/File:Colorful_Asian_street_market_(Unsplash).jpg | Steven Wei stevenwei | CC0
+- matterhorn.jpg | https://commons.wikimedia.org/wiki/File:Matterhorn_sunset_2016_(Unsplash).jpg | Sam Ferrara samferrara | CC0
+- mother-child-hug.jpg | https://stocksnap.io/photo/family-mother-XHT8C9KTXD | Josh Willink | CC0
+- notes-circuit-sketch.jpg | https://commons.wikimedia.org/wiki/File:Circuit_Diagram_2.jpg | Alistairlewis | CC0
+- office-woman-red-sweater.jpg | https://stocksnap.io/photo/business-woman-FPQIEQBMPA | Direct Media | CC0
+- phone-selfie.jpg | https://stocksnap.io/photo/selfie-iphone-B98U3TIFDJ | Kaique Rocha | CC0
+- portrait-closeup.jpg | https://commons.wikimedia.org/wiki/File:Closed_Eyes_(Unsplash).jpg | Toa Heftiba heftiba | CC0
+- portrait-field.jpg | https://commons.wikimedia.org/wiki/File:Closed_eye_smile_in_field_(Unsplash).jpg | Priscilla Du Preez artographybyp | CC0
+- portrait-laughing.jpg | https://commons.wikimedia.org/wiki/File:Closed_eye_smile_(Unsplash).jpg | Marcelo Matarazzo marcelo2016 | CC0
+- portrait-lipstick.jpg | https://commons.wikimedia.org/wiki/File:Red_lipstick_smile_(Unsplash).jpg | Allef Vinicius seteales | CC0
+- portrait-smiling-woman.jpg | https://stocksnap.io/photo/smiling-woman-W6GFOSFAXA | Matt Moloney | CC0
+- portrait-woman-white-background.jpg | https://stocksnap.io/photo/smiling-woman-FRDOUEB81I | Authentic Stock | CC0
+- puppy-bulldog.jpg | https://commons.wikimedia.org/wiki/File:French_Bulldog_Puppy_(Unsplash).jpg | Mike Tinnion m15ky | CC0
+- puppy-running.jpg | https://commons.wikimedia.org/wiki/File:Cute_puppy_running_(Unsplash).jpg | Leo Rivas-Micoud leorivasmicoud | CC0
+- puppy-toy.jpg | https://commons.wikimedia.org/wiki/File:Puppy_playing_with_a_toy_(Unsplash).jpg | Justin Veenema justinveenema | CC0
+- receipt-breakfast.jpg | https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_%E4%B8%8B%E4%BA%AC%E5%8D%80_Shimogyo-ku_%E5%9B%9B%E6%A2%9D%E8%A1%97_Shijo_dori_Street_shop_McDonald%27s_Restaurant_%E6%97%A9%E9%A4%90_breakfast_food_n_bill_June_2026_N13P_02.jpg | HAGAT hOMSZE | CC0
+- receipt-cafe-01.jpg | https://commons.wikimedia.org/wiki/File:MC_%E6%BE%B3%E9%96%80_Macau_%E6%B0%B9%E4%BB%94_Taipa_%E5%AE%98%E4%B9%9F%E8%A1%97_Rua_do_Cunha_%E6%9F%AF%E6%89%93%E8%98%87%E6%B2%99%E8%A1%97_Rua_de_Horta_e_Sousa_shop_%E4%B8%96%E7%B4%80%E5%92%96%E5%95%A1_Sei_Kee_Cafe_bill_November_2024_R12S_02.jpg | JohnLEE Brothers | CC0
+- receipt-creperie.jpg | https://commons.wikimedia.org/wiki/File:Tickets_de_caisse_de_la_cr%C3%AAperie_Tante_Lucie.jpg | Crêperie Tante Lucie | Public domain
+- receipt-dimsum.jpg | https://commons.wikimedia.org/wiki/File:HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_Loon_Kee_%E6%98%9F%E6%9C%88%E6%A8%93_Sky_Cuisine_Restaurant_morning_%E9%A3%B2%E6%97%A9%E8%8C%B6_Chinese_breakfast_tea_steamed_food_%E9%BB%9E%E5%BF%83_dim_sum_paper_bill_March_2026_N13P_01.jpg | Homm BoUretak BAORP | CC0
+- receipt-dumplings.jpg | https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Longhua_%E8%A2%81%E8%A8%98%E4%BA%91%E9%A4%83_YuenJi_Dumplings_paper_bill_August_2026_N13P_01.jpg | KAMEI SZE 2620M | CC0
+- receipt-handwritten.jpg | https://commons.wikimedia.org/wiki/File:Psan%C3%BD_%C3%BA%C4%8Det_v_restauraci_Kharchewnya_Svayaki_(%D0%A5%D0%B0%D1%80%D1%87%D1%8D%D1%9E%D0%BD%D1%8F_%D0%A1%D0%B2%D0%B0%D1%8F%D0%BA%D1%96).jpg | Ladabohac | CC0
+- receipt-korea.jpg | https://commons.wikimedia.org/wiki/File:Receipt_taebaek_restaurant_IMG_2614_modified.jpg | 이태리집(태백시 소재) | Public domain
+- receipt-pay-the-bill.jpg | https://commons.wikimedia.org/wiki/File:Pay_the_bill.jpg | Benreis | CC BY 3.0
+- receipt-pizza.jpg | https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1%E5%8D%80_Nanshan_%E5%B8%B8%E8%88%88%E8%B7%AF_ChangXing_Road_Rainbow_mall_shop_Pizza_Hut_Restaurant_glass_cup_of_water_n_bill_September_2025_R12S_01.jpg | WEN Menualp TongaUU | CC0
+- receipt-restaurant-02.jpg | https://commons.wikimedia.org/wiki/File:A_receipt_in_Thai_from_a_restaurant_in_Chiang_Mai_(2019).jpg | Chainwit. | CC BY 4.0
+- receipt-restaurant-03.jpg | https://commons.wikimedia.org/wiki/File:Bill_Vishwanand_2026-01-28.jpg | Sakurakat | CC0
+- receipt-supermarket-01.jpg | https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E9%87%91%E7%94%B0%E8%B7%AF_Jintian_Road_%E4%B8%83%E9%AE%AE%E8%B6%85%E5%B8%82_Seven_Fresh_Supermarket_checkout_bill_February_2024_R12S.jpg | MISZIE BEI WANGUIM | CC0
+- receipt-supermarket-02.jpg | https://commons.wikimedia.org/wiki/File:HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%B0%9A%E5%BE%B7%E9%82%A8_Sheung_Tak_Estate_%E5%95%86%E5%A0%B4_TKO_SPOT_mall_shop_%E7%99%BE%E4%BD%B3%E8%B6%85%E5%B8%82_ParknShop_Supermarket_bill_February_2024_R12S.jpg | HAUMSHAHEM THEMRMZ | CC0
+- receipt-sushi-bbq.jpg | https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E7%87%92%E8%82%89%E7%90%89%E7%90%83%E4%B9%8B%E7%89%9B_Beef_BBQ_Restaurant_January_2025_R12S_01.jpg | Naha Mama Pavilionz | CC0
+- receipt-wien.jpg | https://commons.wikimedia.org/wiki/File:2007.08.15.Kassazettel.WienerWasser.JPG | Anton-kurt at German Wikipedia (Original text: Anton-kurt 22:44, 4. Nov. 2007 (CET)) | Public domain
+- restaurant-busy.jpg | https://commons.wikimedia.org/wiki/File:Busy_New_York_City_restaurant_(Unsplash).jpg | Roman Arkhipov lomogee | CC0
+- screenshot-browser-tabs.png | https://commons.wikimedia.org/wiki/File:Screenshot_of_tabs_in_GNOME_Web.png | Frap | CC0
+- screenshot-commons-app.png | https://commons.wikimedia.org/wiki/File:Screenshot_of_Commons_Android_app,_2023.png | Syced | CC0
+- screenshot-gnome-desktop.png | https://commons.wikimedia.org/wiki/File:Nyarch_Linux_GNOME_50_Desktop_Screenshot.png | The GNOME Project and Nyarch Linux Developers | CC BY 4.0
+- screenshot-kde-desktop.png | https://commons.wikimedia.org/wiki/File:Kubuntu_18.04_KDE_5.12.7-el_Screenshot_20190306_221603.png | Skultéti Zoltán | CC0
+- screenshot-pdf-viewer.png | https://commons.wikimedia.org/wiki/File:PDF_js_Screenshot_in_Firefox_100.png | 0xDeadbeef | CC0
+- screenshot-phone-browser.png | https://commons.wikimedia.org/wiki/File:Android_Firefox_Screenshot_de.wikipedia.org_Portale_ohne_Rahmen.png | Soluvo | Public domain
+- screenshot-spreadsheet.png | https://commons.wikimedia.org/wiki/File:Libreoffice-calc.png | Own work (conteúdo), The Document Foundation and Canonical (window and controls) | CC0
+- screenshot-tasks-app.png | https://commons.wikimedia.org/wiki/File:Cfait_task_manager_v1.1.0_screenshot_(Android).png | Trougnouf | CC0
+- screenshot-travel-itinerary.png | https://commons.wikimedia.org/wiki/File:KDE_Itinerary_Screenshot.png | KDE | CC0
+- screenshot-wikipedia-app.jpg | https://commons.wikimedia.org/wiki/File:Screenshot_for_discover_feature_on_the_Wikipedia_Android_app.jpg | ARamadan-WMF | CC0
+- silhouettes-sunset.jpg | https://stocksnap.io/photo/silhouette-family-Q7UIKF58IR | RachelH | CC0
+- street-lights-evening.jpg | https://commons.wikimedia.org/wiki/File:Bogot%C3%A1_city_and_street_lights_(Unsplash).jpg | AltaGamba @altagamba altagamba | CC0
+- sunset-boats.jpg | https://commons.wikimedia.org/wiki/File:Fishing_boats_against_a_pink_sunset._(Unsplash).jpg | Trang Nguyen trang3019 | CC0
+- team-meeting-table.jpg | https://stocksnap.io/photo/people-girls-Y2AHVPYB51 | Brodie Vissers | CC0
+- trip-planning.jpg | https://commons.wikimedia.org/wiki/File:Planning_a_trip_over_coffee_(Unsplash).jpg | rawpixel.com rawpixel | CC0
+- whiteboard-office.jpg | https://commons.wikimedia.org/wiki/File:A_white_board.jpg | Umar2z | CC0
+- whiteboard-sticky-notes.jpg | https://commons.wikimedia.org/wiki/File:Sticky_Notes_on_a_Whiteboard_at_a_Climate_Change_Training_for_Joshua_Tree_Interpretive_Rangers_(16520442071).jpg | Joshua Tree National Park | Public domain

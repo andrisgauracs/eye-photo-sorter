@@ -1,0 +1,21 @@
+{
+  "name": "eye-photo-sorter",
+  "version": "1.0.0",
+  "description": "Drop a folder of photos; Eye sorts them on-device in the browser",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predev": "node scripts/copy-litert.js",
+    "prebuild": "node scripts/copy-litert.js"
+  },
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@desert-ant-labs/eye": "^4.1.0",
+    "@litertjs/core": "^2.6.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.5"
+  }
+}
